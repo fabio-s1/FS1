@@ -1,2 +1,2 @@
-# kaze
-site pessoal / fabiokz
+# KAZE
+Personal Website / fabiokz
