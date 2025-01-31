@@ -1,5 +1,5 @@
-# KAZE
-Personal Website / fabiokz
+# FS1
+Personal Website / FS1
 
 # Technologies
 * HTML
