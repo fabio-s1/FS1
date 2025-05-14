@@ -3,15 +3,14 @@ https://fabios1.com
 
 
 
-# Technologies
+## Technologies
 * HTML5
 * CSS3
-\\
 * Bootstrap 5
 
 
 
-# Information
+## Information
 * Curriculum Vitae: https://fabios1.com/cv.html\\
 * Blog: https://blog.fabios1.com/\\
 * GitHub: https://github.com/fabio-s1\\
@@ -19,5 +18,5 @@ https://fabios1.com
 
 
 
-# License
+## License
 This project is licensed under the MIT License.
