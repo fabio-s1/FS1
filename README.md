@@ -13,9 +13,9 @@
 
 
 # Socials and Contact Information
-GitHub: https://github.com/fabio-s1\\
-LinkedIn: https://linkedin.com/in/fabio-s1\\
-Posthaven: https://fabios1.posthaven.com\\
+* GitHub: https://github.com/fabio-s1\\
+* LinkedIn: https://linkedin.com/in/fabio-s1\\
+* Posthaven: https://fabios1.posthaven.com\\
 
 
 
