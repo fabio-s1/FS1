@@ -1,21 +1,21 @@
-# FS1
-* Personal Website / Fabio Siqueira
-* https://fabios1.com
+# Personal Website
+https://fabios1.com
 
 
 
 # Technologies
 * HTML5
 * CSS3
-
+\\
 * Bootstrap 5
 
 
 
-# Socials and Contact Information
+# Information
+* Curriculum Vitae: https://fabios1.com/cv.html\\
+* Blog: https://blog.fabios1.com/\\
 * GitHub: https://github.com/fabio-s1\\
 * LinkedIn: https://linkedin.com/in/fabio-s1\\
-* Posthaven: https://fabios1.posthaven.com\\
 
 
 
